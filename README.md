@@ -1,7 +1,7 @@
 # Factor and Solve a Quadratic  
 Python script to factor and solve a quadratic polynomial.
 
-i.e. 6*x*<sup>2</sup> + 11*x* - 35 = 0 
+i.e. <a href="https://www.codecogs.com/eqnedit.php?latex=6x^2&plus;11x-35=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?6x^2&plus;11x-35=0" title="6x^2+11x-35=0" /></a>
 ```
 $ python run.py
 Factor and Solve a Quadratic Polynomial
